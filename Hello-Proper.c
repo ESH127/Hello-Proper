@@ -9,7 +9,10 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-
+    
+    printf("Elijah Harvoy!\n");
+    printf("Computer Science\n");
+    
     printf("Ava Blecha!\n");
     printf("Computer Science\n");
 
